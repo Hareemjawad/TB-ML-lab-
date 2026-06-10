@@ -182,6 +182,5 @@ Interested in Data Analytics, Machine Learning, and Public Health Applications o
 
 ---
 
-## License
 
 This project is intended for educational and research purposes. Please cite the original WHO dataset and relevant sources when using or extending this work.
